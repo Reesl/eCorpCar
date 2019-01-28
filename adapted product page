@@ -1,0 +1,58 @@
+/*Sidebar*/
+
+.payable-extras.rq-sldebar-select.booking-section-single.rnb-component-wrapper{
+    display: none;
+}
+
+.payable-security_deposites.rq-sldebar-select.booking-section-single.rnb-component-wrapper{
+    display: none;
+}
+
+.car-price{
+    visibility: hidden;
+}
+
+.booking-pricing-info{
+    display: none;
+}
+
+/*Gamification-Anpassungen*/
+
+.gameexperience h2{
+    font-size: 22px;
+    font-weight: 600;
+    color: rgb(52, 61, 72);
+}
+
+.gameexperience h4{
+    font-size: 14px;
+    font-weight: 600;
+    color: rgb(52, 61, 72);
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.gamipress-progress-text{
+    font-size: 14px;
+    font-weight: 500;
+    color: rgb(52, 61, 72);
+}
+
+.gameexperience ul{
+    list-style-type: none;
+    padding: 0;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.gamipress-required-achievements{
+    font-size: 14px;
+    font-weight: 500;
+    color: rgb(52, 61, 72);
+}
+
+.gamipress-achievement-excerpt{
+    font-size: 13px;
+    font-weight: 400;
+    color: rgb(120, 137, 157);
+}
