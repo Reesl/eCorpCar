@@ -1,0 +1,67 @@
+.single-sub-title{
+    visibility: hidden;
+}
+
+.post-share{
+    visibility: hidden;
+}
+
+
+/*Sie haben folgenden Erfahrungsstand erlangt*/
+
+.gamipress-achievement-earned{
+    font-family: 'Poppins', sans-serif;
+    color: rgb(52, 61, 72);
+    font-size: 16px;
+    font-weight: 700;
+}
+
+/*Text in der Box*/
+
+.gamipress-achievement-congratulations{
+    font-family: 'Poppins', sans-serif;
+    color: rgb(153, 153, 153);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+/* Admin-Bild und Datum*/
+
+.rq-single-post-header{
+    display: none;
+}
+
+/*Diesen Status haben Sie als Neuling auf dieser Plattform inne*/
+
+.gamipress-achievement-description{
+    font-family: 'Poppins', sans-serif;
+    color: rgb(52, 61, 72);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+/*Anforderung(en)*/
+
+h4{
+    font-family: 'Poppins', sans-serif;
+    color: rgb(52, 61, 72);
+    font-size: 16px;
+    font-weight: 700;
+    padding: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+/*Erledigte Anforderung*/
+
+.gamipress-required-achievements{
+    font-family: 'Poppins', sans-serif;
+    color: rgb(52, 61, 72);
+    font-size: 16px;
+    font-weight: 400;
+    list-style-type: none;
+    padding: 0;
+    margin-top: 6px;
+    margin-bottom: 0;
+}
+
